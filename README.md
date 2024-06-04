@@ -1,1 +1,1 @@
-# webathon-journal
+#journal
